@@ -1,0 +1,13 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+p.aaa{
+    font-size: 1.3rem;
+    background-color: blue;
+    color: red;
+}
+.bbb{
+    font-weight: bolder;
+    color: blue;
+}
